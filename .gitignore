@@ -24,3 +24,17 @@
 /configure.log
 
 .DS_Store
+build/CMakeFiles/3.23.1/CompilerIdC/Debug/
+build/Debug/
+build/example.dir/Debug/
+build/example.dir/Release/
+build/CMakeFiles/3.23.1/x64/
+build/minigzip.dir/Debug/
+build/minigzip.dir/Release/
+build/Release/
+build/x64/
+build/zlib.dir/Debug/
+build/zlib.dir/Release/
+build/zlibstatic.dir/Debug/
+build/zlibstatic.dir/Release/
+build/.vs/
